@@ -1,7 +1,7 @@
 {
   "id": "template-vanilla",
   "name": "Vanilla UI Extension template",
-  "srcdoc": "index.php",
+  "srcdoc": "index.html",
   "fieldTypes": ["Symbol", "Text"],
   "parameters": {
     "instance": [
